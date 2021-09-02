@@ -1,0 +1,121 @@
+Need photos: 126 x 126
+Photo needs to be "PNG" (Transparent)
+Rize image: https://onlinepngtools.com/resize-png
+Upload image: https://imgur.com/
+Reference site to use form images: https://www.pixelsquid.com/
+
+
+-item spawn code, item name (based everything on the item name, use different images for each item)
+
+
+-Example
+        ('Ex', 'Example', 1, 0, 1), https://imgur.com/123456789
+
+
+	('alcohol', 'Alcohol', -1, 0, 1),https://imgur.com/VQWOqXe
+	('alive_chicken', 'living chicken', 20, 0, 1),https://imgur.com/vRpHUYt
+	('ammoanalyzer', 'Ammo Analyzer', 1, 0, 1),
+	('armbrace', 'Arm Brace', 20, 0, 1),https://imgur.com/hMbptR8
+	('armour', 'Armour', 3, 0, 1),https://imgur.com/kIISeA8
+	('bag', 'Duffel Bag', 1, 0, 1),https://imgur.com/WGo6BTh
+	('bagofdope', 'Bag of Dope', -1, 0, 1),https://imgur.com/PrBqVla
+        ('bloodsample', 'Blood Sample', 1, 0, 1),https://imgur.com/LOji9sW
+ 	('bluray', 'Bluray Player', -1, 0, 1),https://imgur.com/ljEQIeg
+	('bodybandage', 'Body Bandage', 20, 0, 1),https://imgur.com/q4GO1ya
+        ('book', 'Book', -1, 0, 1),https://imgur.com/1Xv6Cjz
+	('bulletsample', 'Bullet Casing', 1, 0, 1),https://imgur.com/YiERDpX
+	('cchip', 'Casino Chip', -1, 0, 1),https://imgur.com/4W3EhWv
+	('chicken1', 'Chicken Wings', 10, 0, 1),https://imgur.com/IUUv3GR
+	('chicken2', 'Chicken Leg', 10, 0, 1),https://imgur.com/JydCrwo
+	('chicken3', 'Chicken Breast', 10, 0, 1),https://imgur.com/Fgl0lAS
+	('chicken4', 'Chicken Box', 10, 0, 1),https://imgur.com/gepl8vb
+	('chocolate', 'Chocolate', 10, 0, 1),https://imgur.com/yHAcLBs
+        ('cigarett', 'Cigarett', 20, 0, 1),https://imgur.com/HPmCFJ9
+	('cloth', 'Cloth', 1, 0, 1),https://imgur.com/LxLZ5hf
+	('coke', 'Coke', 50, 0, 1),https://imgur.com/VXC4b1E
+	('coke_pooch', 'Pouch of coke', 10, 0, 1), (switch with coke)
+	('console', 'Console', -1, 0, 1),
+	('creditcard', 'Credit Card', -1, 0, 1),https://imgur.com/drWgH3h
+	('diamond', 'diamond', 50, 0, 1),https://imgur.com/39pwsf6
+	('diamondring', 'Diamond Ring', -1, 0, 1),https://imgur.com/DSHuNJm
+	('dnaanalyzer', 'DNA Analyzer', 1, 0, 1),https://imgur.com/9npg7ht
+	('dopebag', 'Ziplock Bag', -1, 0, 1),https://imgur.com/NIfIajb
+	('drugscales', 'Scales', -1, 0, 1),https://imgur.com/qajTesZ
+	('familybox', 'Family Meal', 1, 0, 1),
+	('gamingperipherals', 'Gaming Peripherals', -1, 0, 1),https://imgur.com/KNdI3Qz
+	('gloves', 'Boxing gloves', -1, 0, 1),https://imgur.com/KZgytHW
+	('goldbracelet', 'Gold Bracelet', -1, 0, 1),https://imgur.com/VPCOafH
+	('goldchain', 'Gold Chain', -1, 0, 1),https://imgur.com/A86EFQA
+	('golem', 'Golem', 5, 0, 1),https://imgur.com/GzEDDov
+	('gpspill', 'Proto-type GPS Pill', -1, 0, 1),
+	('handcuffs', 'handcuffs', -1, 0, 1),https://imgur.com/SyHJLzL
+	('hifi', 'Boombox', 1, 0, 1),https://imgur.com/BxmxIjU
+	('highgradefemaleseed', '(HG) Female Seed', -1, 0, 1),https://imgur.com/rX5tLhb
+	('highgradefert', 'High-Grade Fertilizer', -1, 0, 1),https://imgur.com/kHke9C6
+	('highgrademaleseed', '(HG) Male Seed', -1, 0, 1),https://imgur.com/rX5tLhb
+	('ifruit', 'ifruit', -1, 0, 1),https://imgur.com/sRAN35n
+	('jumpercable', 'Jump Leads', 2, 0, 1),https://imgur.com/opMAHML
+	('junk', 'Junk', -1, 0, 1),https://imgur.com/8V9BSYE
+	('keycard', 'OmniKey', -1, 0, 1),https://imgur.com/P7gMpCn
+	('laptop', 'Laptop', -1, 0, 1),https://imgur.com/r65G0gT
+	('lasagna', 'Lasagna', 10, 0, 1),https://imgur.com/c4XcLDd
+	('lotteryticket', 'Lottery Ticket', -1, 0, 1),https://imgur.com/xRhc7zd
+	('lowgradefemaleseed', '(LG) Female Seed', -1, 0, 1),https://imgur.com/SneQkq0
+	('lowgradefert', 'Low-Grade Fertilizer', -1, 0, 1),https://imgur.com/Q08LHFl
+	('lowgrademaleseed', '(LG) Male Seed', -1, 0, 1),https://imgur.com/SneQkq0
+	('meth', 'Meth', 50, 0, 1),https://imgur.com/F925C8h
+	('meth_pooch', 'Pouch of meth', 10, 0, 1),https://imgur.com/myj1IxK
+	('metreshooter', 'Shooter meter', 3, 0, 1),
+	('neckbrace', 'Neck Brace', 20, 0, 1),https://imgur.com/wtFSFvW
+	('Nightvision', 'Nightvision', 1, 0, 0),https://imgur.com/xK1s0kC
+	('oldcoin', 'Old Coin', -1, 0, 1),https://imgur.com/4on7s5d
+	('omega', 'Omega', -1, 0, 1),https://imgur.com/TP0Xqtq
+	('opium', 'Opium', 50, 0, 1),https://imgur.com/xleJDA5
+	('opium_pooch', 'Pouch of opium', 10, 0, 1),https://imgur.com/MXfvoxi
+	('oxycutter', 'Plasma Torch', -1, 0, 1),https://imgur.com/rPMx4k3
+	('pacificidcard', 'Pacific ID', -1, 0, 1),
+	('packaged_plank', 'packaged wood', 100, 0, 1),
+	('passport', 'Passport', -1, 0, 1),https://imgur.com/WB04fBW
+	('pickledanimal', 'Zevas jar of pickled animals', -1, 0, 1),https://imgur.com/gXLkv6z
+	('pizza', 'Pizza', -1, 0, 1),https://imgur.com/zjuOMFh
+	('pizzaslice', 'Pizza Slice', 10, 0, 1),https://imgur.com/vSzgWoS
+	('plantpot', 'Plant Pot', -1, 0, 1),https://imgur.com/TLyTQDp
+	('purifiedwater', 'Purified Water', -1, 0, 1),https://imgur.com/gSeDnPf
+	('rarecoin', 'Rare Coin Collection', -1, 0, 1),https://imgur.com/NcaoX71
+	('rareornament', 'Rare Ornament', -1, 0, 1),https://imgur.com/JLMHLAs
+	('rhum', 'Rhum', 5, 0, 1),https://imgur.com/0NOheQ0
+	('rhumcoca', 'Rum and coke', 5, 0, 1),https://imgur.com/stlQdvz
+	('rhumfruit', 'Rum fruit juice', 5, 0, 1),https://imgur.com/GJqy3lk
+	('ring', 'Ring', -1, 0, 1),https://imgur.com/pqdoTuF
+	('rolex', 'Rolex', -1, 0, 1),https://imgur.com/Vskcn6I
+	('santashat', 'Santas Hat', -1, 0, 1),https://imgur.com/L7B6UE6
+	('saucisson', 'Sausage', 5, 0, 1),https://imgur.com/kZzORbJ
+	('scratchoff', 'Scratchoff Ticket', -1, 0, 1),https://imgur.com/erQoMm5
+	      
+	('scratchoff_used', 'Used Scratchoff Ticket', -1, 0, 1),https://imgur.com/p93aDFF
+	('sim', 'Sim', 10, 0, 1),https://imgur.com/rSz3A6X
+	('skateboard', 'Skate Board', 1, 0, 1),https://imgur.com/s0XvMRc
+	('slaughtered_chicken', 'slaughtered chicken', 20, 0, 1),https://imgur.com/kz55wHD
+	('soda', 'Soda', 5, 0, 1),https://imgur.com/8dmzBSx
+	('sojobeans', 'Sojo Beans', -1, 0, 1),https://imgur.com/MkzqICE
+	('spaghetti', 'Spaghetti', 10, 0, 1),https://imgur.com/wz2UROC
+	('speaker', 'Speaker', -1, 0, 1),https://imgur.com/4t2aqZv
+	('tabacco', 'Tabacco', -1, 0, 1),https://imgur.com/8uN06pI
+	('tablet', 'Tablet', -1, 0, 1),https://imgur.com/YzisvkZ
+	('teqpaf', 'Teq\'paf', 5, 0, 1),https://imgur.com/PBej0cq
+	('Thermalvision', 'Thermalvision', 1, 0, 0),https://imgur.com/nEt1MZ9
+	('tokoradio', 'Radio', 1, 0, 1),https://imgur.com/S5ppuxU
+	('toothpaste', 'Toothpaste', -1, 0, 1),https://imgur.com/3JkmrSe
+	('treasuremap', 'Treasure Map', -1, 0, 1),https://imgur.com/dGkDhQa
+	('trimmedweed', 'Trimmed Weed', -1, 0, 1),https://imgur.com/LZNh6Nr
+	('vodkaenergy', 'Vodka-energy', 5, 0, 1),https://imgur.com/rYDykhZ
+	('vodkafruit', 'Vodka fruit juice', 5, 0, 1),https://imgur.com/rfKdZpV
+	('wallet', 'Wallet', -1, 0, 1),https://imgur.com/vEHAsei
+	('washed_stone', 'washed stone', 7, 0, 1),https://imgur.com/2hwFzHf
+	('wateringcan', 'Watering Can', -1, 0, 1),https://imgur.com/pmje1VH
+	('weed', 'Weed', 50, 0, 1),https://imgur.com/KLHzKgQ
+	('weed_pooch', 'Pouch of weed', 10, 0, 1),https://imgur.com/M3LLfvC
+	('whiskycoca', 'Whisky-coca', 5, 0, 1),https://imgur.com/3UsHbgP
+	('wood', 'wood', 20, 0, 1),https://imgur.com/iOMhnIv
+	('wool', 'wool', 40, 0, 1),https://imgur.com/9qZcQUx
+	('xanax', 'xanax', 5, 0, 1),https://imgur.com/02x6hOU
